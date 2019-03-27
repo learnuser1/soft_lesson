@@ -11,5 +11,5 @@ def max_sum(a):
             max = sum
     return max
 if __name__ == "__main__":
-    c = max_sum([-1,2,3,-4,5])
+    c = max_sum([-1,-4,2,3,0])
     print(c)
